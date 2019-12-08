@@ -64,6 +64,6 @@ h2{
 
 @media(max-width:1000px){
  .logo{
-   display:none;
+   padding:50px;
   }
 }
